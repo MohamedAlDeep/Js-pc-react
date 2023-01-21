@@ -17,7 +17,14 @@
     "id": "3",
     "title": "KSP",
     "about": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab mollitia impedit reprehenderit, dolorum totam hic dicta? Impedit, veritatis illo accusamus saepe hic, dolorum nesciunt facere autem voluptatem facilis, quam sunt",
-    "year": "2023",
+    "year": "2018",
     "price": "40"          
+  },
+  {
+    "id": "4",
+    "title": "KSP2",
+    "about": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab mollitia impedit reprehenderit, dolorum totam hic dicta? Impedit, veritatis illo accusamus saepe hic, dolorum nesciunt facere autem voluptatem facilis, quam sunt",
+    "year": "2023",
+    "price": "90"          
   }
 ]

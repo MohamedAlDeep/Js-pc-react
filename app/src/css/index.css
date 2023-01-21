@@ -1,21 +1,14 @@
+.main{
+  display: grid;
+  grid-template-columns: repeat(3, 200px);
+  
+}
 .container{
-  background-color: red;
-  width: 18rem;
-  height: 20rem;
-  border-radius: 10px;
-  overflow: hidden;
-  padding: 1.4rem;
+  width: 13rem;
+  display: grid;
+  grid-template-rows:max-content ;
+  
 }
 sub{
-  padding: 1.1rem;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-weight: 700;
-}
-h1{
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  font-weight: 100;
-}
-p{
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-weight: 100;
+  padding: 2rem;
 }
