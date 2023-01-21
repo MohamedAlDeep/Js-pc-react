@@ -5,12 +5,13 @@
 }
 .container{
   width: 13rem;
-  background-color: aqua;
-  border-radius: 10px;
+  background: rgb(235,241,235);
+  background: linear-gradient(201deg, rgba(235,241,235,1) 33%, rgba(115,115,115,1) 50%);
   overflow: hidden;
+  border-radius: 10px;
 }
 .sub{
-  background-color: grey;
+  background-color: rgba(115,115,115,1) 100%;
   border-radius: 10px;
 }
 sub{
