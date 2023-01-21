@@ -11,8 +11,10 @@ function Block()
               <div className='wraper'>
                 <h1>{props.title}</h1>
                 <p>{props.about}</p>
-                <sub>{props.year}</sub>
-                <sub>{props.price}$</sub>
+                <div className="sub">
+                  <sub>{props.year}</sub>
+                  <sub>{props.price}$</sub>
+                </div>
               </div>
             </div>
           </div>

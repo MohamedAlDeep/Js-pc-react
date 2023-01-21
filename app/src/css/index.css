@@ -1,13 +1,17 @@
 .main{
-  display: grid;
-  grid-template-columns: repeat(3, 200px);
+  display:inline-flex;
+  padding: 2rem;
   
 }
 .container{
   width: 13rem;
-  display: grid;
-  grid-template-rows:max-content ;
-  
+  background-color: aqua;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.sub{
+  background-color: grey;
+  border-radius: 10px;
 }
 sub{
   padding: 2rem;
