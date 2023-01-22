@@ -1,3 +1,7 @@
+*::selection{
+  background-color: rgb(223, 69, 164);
+}
+
 .main{
   display:inline-flex;
   padding: 2rem;
@@ -9,6 +13,7 @@
   background: linear-gradient(201deg, rgba(235,241,235,1) 33%, rgba(115,115,115,1) 50%);
   overflow: hidden;
   border-radius: 10px;
+  padding: 1.2rem;
 }
 .sub{
   background-color: rgba(115,115,115,1) 100%;

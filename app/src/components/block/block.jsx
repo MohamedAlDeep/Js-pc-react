@@ -1,5 +1,5 @@
-import '../css/index.css'
-import Data from '../data/data.json'
+import './css/index.css'
+import Data from '../../data/data.json'
 function Block()
 {
   return(

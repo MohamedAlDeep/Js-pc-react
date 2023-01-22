@@ -1,0 +1,10 @@
+input{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  height: 1.7rem;
+  border-color: rgb(214, 162, 19);
+  border-radius: 5px;
+  border-width: 3px;
+}
